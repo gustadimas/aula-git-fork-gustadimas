@@ -2,4 +2,4 @@
 
 Aqui estão os principais comandos e conceitos para começar a usar Git e GitLab.
 
-Novo texto
+Novo texto já alterado
